@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "start": "node-sass ./src/scss/main.scss ./dist/main.css -w"
+    },
+    "devDependencies": {
+      "node-sass": ^7.0.0,
+      "sass-loader": "^12.4.0"
+    }
+  }
