@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Pirge Prod Artes
 
-You can use the [editor on GitHub](https://github.com/ThibautSembeni/github-pages-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pirge Prod Artes est une application web utilisé au sein de la SNCF pour pouvoir avoir un planning dynamique des agents ainsi de la gestion des comptes de l'ARTES.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installer le projet
 
-### Markdown
+### Installer les packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+npm install
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Démarrer le Projet
 
-### Jekyll Themes
+```
+npm start
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThibautSembeni/github-pages-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ouvrir `http://localhost:3000`
 
-### Support or Contact
+## Auteur
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sembeni Thibaut <thibautsembeni@gmail.com>
+
+<img align="left" alt="medium" src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ec/Logo_SNCF_R%C3%A9seau_2015.svg/1280px-Logo_SNCF_R%C3%A9seau_2015.svg.png" height=70px/>
